@@ -1,0 +1,29 @@
+
+#galerys.col-lg-4{
+    margin: 0 !important;
+    padding: 20px;
+}
+
+#galerys img{
+    width: 100%;
+    height: 250px;
+
+}
+
+#galerys img:hover{
+    border: 5px solid #f7f7f7;
+}
+
+
+#logo img{
+    width: 1000px;
+    height: 100px;
+
+}
+
+
+
+
+
+
+
